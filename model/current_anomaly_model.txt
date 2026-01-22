@@ -1,0 +1,2 @@
+model=water_quality_anomaly_20260107_224715.pkl
+scaler=water_quality_scaler_20260107_224715.pkl

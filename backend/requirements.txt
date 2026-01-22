@@ -1,0 +1,24 @@
+# Core FastAPI dependencies
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+python-multipart>=0.0.5
+
+# Security dependencies
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-dotenv>=0.19.0
+
+# Rate limiting
+slowapi>=0.1.9
+
+# Database dependencies
+sqlalchemy>=1.4.0
+
+# ML dependencies (copied from original)
+scikit-learn>=1.0.0
+joblib>=1.1.0
+requests>=2.26.0
+
+# Additional security dependencies
+cryptography>=3.4.0

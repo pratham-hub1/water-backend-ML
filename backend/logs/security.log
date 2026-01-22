@@ -1,0 +1,16 @@
+2026-01-21 22:42:32,590 - main - INFO - Database tables created successfully!
+2026-01-21 22:42:48,503 - main - INFO - Database tables created successfully!
+2026-01-21 22:42:48,523 - main - INFO - Test users initialized: ['admin', 'testuser']
+2026-01-21 22:42:48,527 - main - INFO - Secure backend started successfully!
+2026-01-21 22:42:58,776 - main - INFO - Database tables created successfully!
+2026-01-21 22:42:58,795 - main - INFO - Test users initialized: ['admin', 'testuser']
+2026-01-21 22:42:58,797 - main - INFO - Secure backend started successfully!
+2026-01-21 22:43:09,011 - main - INFO - Database tables created successfully!
+2026-01-21 22:43:09,036 - main - INFO - Test users initialized: ['admin', 'testuser']
+2026-01-21 22:43:09,037 - main - INFO - Secure backend started successfully!
+2026-01-21 22:43:14,641 - main - INFO - Database tables created successfully!
+2026-01-21 22:43:14,663 - main - INFO - Test users initialized: ['admin', 'testuser']
+2026-01-21 22:43:14,664 - main - INFO - Secure backend started successfully!
+2026-01-21 22:44:05,135 - main - INFO - Database tables created successfully!
+2026-01-21 22:44:05,149 - main - INFO - Test users initialized: ['admin', 'testuser']
+2026-01-21 22:44:05,150 - main - INFO - Secure backend started successfully!
